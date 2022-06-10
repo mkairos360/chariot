@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9a24eb1-8675-481f-b36c-18ebe3d8de88" name="Default Changelist" comment="Initialize code set">
+      <change afterPath="$PROJECT_DIR$/bin/pip3.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/3d_drawing/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/3d_drawing/mayavi2_spring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/3d_drawing/plot_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/WormNet.v3.benchmark.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/hartford_drug.edgelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_beam_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_betweenness_centrality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_blockmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_circuits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_davis_club.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_dedensification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_iterated_dynamical_systems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_krackhardt_centrality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_parallel_betweenness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_rcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_snap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/algorithms/plot_subgraphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/basic/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/basic/plot_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/basic/plot_read_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/basic/plot_simple_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/chess_masters_WCC.pgn.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/knuth_miles.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_chess_masters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_custom_node_icons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_degree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_directed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_edge_colormap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_ego_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_eigenvalues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_four_grids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_house_with_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_knuth_miles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_labels_and_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_multipartite_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_node_colormap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_rainbow_coloring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_random_geometric_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_sampson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_selfloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_simple_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_spectral_grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_tsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_unix_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/plot_weighted_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/drawing/unix_email.mbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_degree_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_erdos_renyi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_expected_degree_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_football.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_karate_club.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_napoleon_russian_campaign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_roget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/plot_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/roget_dat.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/graph/words_dat.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/subclass/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/subclass/plot_antigraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/doc/networkx-2.8.3/examples/subclass/plot_printgraph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/churchclicks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/churchclicks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/djangify" beforeDir="false" afterPath="$PROJECT_DIR$/bin/djangify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/bin/django-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pip3.9" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pip3.9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rst2html5.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rst2html5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sqlformat" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sqlformat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/announcement/templates/announcement/announcement.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cashbook/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cashbook/templates/cashbook/setup.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cashbook/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cashbook/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/churchclicks/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dashboard/templates/dashboard/dashboard.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dashboard/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dashboard/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/shared/left-sided-panel.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="utbs4nph" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23LOAFmqAVNgd1n5gkQU5cxR0Ow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/churchsettings/middleware" />
+      <recent name="$PROJECT_DIR$/churchsettings/templates/churchsettings" />
+      <recent name="$PROJECT_DIR$/static/assets/images/background" />
+      <recent name="$PROJECT_DIR$/static/assets/images" />
+      <recent name="$PROJECT_DIR$/accounts/templates/accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/churchclicks" />
+      <recent name="$PROJECT_DIR$/projects/templates" />
+      <recent name="$PROJECT_DIR$/church_services" />
+      <recent name="$PROJECT_DIR$/pledges/templates/pledges/member-monetary-pledges" />
+      <recent name="$PROJECT_DIR$/pledges/templates/pledges" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Verse5" type="Python.DjangoServer" factoryName="Django server">
+      <module name="churchclicks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="churchclicks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a24eb1-8675-481f-b36c-18ebe3d8de88" name="Default Changelist" comment="" />
+      <created>1641509754277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641509754277</updated>
+      <workItem from="1641509755938" duration="3048000" />
+      <workItem from="1641519203362" duration="1173000" />
+      <workItem from="1641560870585" duration="31700000" />
+      <workItem from="1641654089083" duration="24725000" />
+      <workItem from="1641761021219" duration="9617000" />
+      <workItem from="1641796128133" duration="1609000" />
+      <workItem from="1641842852159" duration="6586000" />
+      <workItem from="1641888780717" duration="6427000" />
+      <workItem from="1641916330954" duration="23178000" />
+      <workItem from="1642171310188" duration="2939000" />
+      <workItem from="1642175218219" duration="37145000" />
+      <workItem from="1642318859683" duration="3219000" />
+      <workItem from="1642349915738" duration="6706000" />
+      <workItem from="1642368785931" duration="142000" />
+      <workItem from="1642368937963" duration="5446000" />
+      <workItem from="1642379184871" duration="51000" />
+      <workItem from="1642379270763" duration="270000" />
+      <workItem from="1642380287181" duration="35806000" />
+      <workItem from="1642807736377" duration="26348000" />
+      <workItem from="1643017604160" duration="336000" />
+      <workItem from="1643018076549" duration="57257000" />
+      <workItem from="1643135483078" duration="557000" />
+      <workItem from="1643194634639" duration="9800000" />
+      <workItem from="1643265491577" duration="3912000" />
+      <workItem from="1643791331798" duration="873000" />
+      <workItem from="1643792245678" duration="24218000" />
+      <workItem from="1645693288860" duration="1590000" />
+      <workItem from="1645875053781" duration="492000" />
+      <workItem from="1645887104806" duration="1878000" />
+      <workItem from="1646806703621" duration="23000" />
+      <workItem from="1646851973016" duration="107000" />
+      <workItem from="1647256208548" duration="99000" />
+      <workItem from="1647256394661" duration="755000" />
+      <workItem from="1647473815715" duration="2068000" />
+      <workItem from="1647596363842" duration="481000" />
+      <workItem from="1647776263535" duration="1235000" />
+      <workItem from="1648930704294" duration="19949000" />
+      <workItem from="1649068195400" duration="4388000" />
+      <workItem from="1649131258719" duration="10974000" />
+      <workItem from="1649150675497" duration="7278000" />
+      <workItem from="1649160834190" duration="260000" />
+      <workItem from="1649161110933" duration="12326000" />
+      <workItem from="1649237679865" duration="29000" />
+      <workItem from="1649241618255" duration="16516000" />
+      <workItem from="1649274686180" duration="23502000" />
+      <workItem from="1649374719396" duration="5875000" />
+      <workItem from="1649416690405" duration="8941000" />
+      <workItem from="1649427781290" duration="18767000" />
+      <workItem from="1649620946529" duration="26392000" />
+      <workItem from="1649714938475" duration="66861000" />
+      <workItem from="1650121128140" duration="5954000" />
+      <workItem from="1650232138576" duration="5890000" />
+      <workItem from="1650325208022" duration="7200000" />
+      <workItem from="1650405799563" duration="2189000" />
+      <workItem from="1650436005755" duration="5541000" />
+      <workItem from="1650497610985" duration="7351000" />
+      <workItem from="1650533566260" duration="62770000" />
+      <workItem from="1650796967211" duration="6224000" />
+      <workItem from="1650814430600" duration="7561000" />
+      <workItem from="1650844938704" duration="22000" />
+      <workItem from="1650897955790" duration="893000" />
+      <workItem from="1650967010119" duration="10402000" />
+      <workItem from="1651042932600" duration="36032000" />
+      <workItem from="1651223310405" duration="1158000" />
+      <workItem from="1651460984945" duration="15094000" />
+      <workItem from="1651688337277" duration="422000" />
+      <workItem from="1651754476457" duration="255000" />
+      <workItem from="1652105165375" duration="516000" />
+      <workItem from="1652542764898" duration="6102000" />
+      <workItem from="1652600340288" duration="4924000" />
+      <workItem from="1652651810964" duration="6952000" />
+      <workItem from="1653311731581" duration="853000" />
+      <workItem from="1653337017612" duration="10937000" />
+      <workItem from="1653403551176" duration="334000" />
+      <workItem from="1653536750835" duration="249000" />
+      <workItem from="1653668072619" duration="371000" />
+      <workItem from="1653763586543" duration="360000" />
+      <workItem from="1654393269478" duration="534000" />
+      <workItem from="1654519324697" duration="1073000" />
+      <workItem from="1654616543316" duration="4248000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialize code set">
+      <created>1642847168023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642847168023</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initialize code set">
+      <created>1647596794438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647596794438</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initialize code set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize code set" />
+  </component>
+</project>
